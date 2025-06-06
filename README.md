@@ -12,9 +12,9 @@ The full project was a team collaboration and included the following components:
 
 | Module | Description | Contributor |
 |--------|-------------|-------------|
-| 🧠 NLP Signal Extraction | Classification of company documents into AI/ESG sub-sectors using BART + ElasticSearch | **[Your Name] (Me)** |
-| 📊 Portfolio Construction | Thematic portfolio optimization via Sequential Least Squares (Sharpe ratio optimization) | [Teammate X] |
-| 🤖 GPT Chatbot Delivery | Chatbot interface for real-time investor Q&A using GPT APIs | [Teammate Y] |
+| 🧠 NLP Signal Extraction | Classification of company documents into AI/ESG sub-sectors using BART + ElasticSearch | (Me) |
+| 📊 Portfolio Construction | Thematic portfolio optimization via Sequential Least Squares (Sharpe ratio optimization) | [Teammate] |
+| 🤖 GPT Chatbot Delivery | Chatbot interface for real-time investor Q&A using GPT APIs | [Teammate] |
 
 This repo includes **only the components I personally implemented and maintained.**
 
@@ -45,26 +45,8 @@ This repo includes **only the components I personally implemented and maintained
 
 ---
 
-## 📈 Sample Outputs
-
-<Insert screenshots or markdown code blocks showing:  
-- classification output  
-- structured summaries from transcripts  
->
-
----
-
 ## 🤝 Acknowledgments
 
 This was a team project conducted under Acadia’s summer industry research program.  
-Special thanks to my collaborators [Teammate X] and [Teammate Y] for their work on the portfolio and chatbot modules respectively.
+Special thanks to my collaborators for their work on the portfolio and chatbot modules, respectively.
 
----
-
-## 📬 Contact
-
-Feel free to reach out if you'd like to learn more about the full system or request access to other components:
-
-**[Your Name]**  
-Email: [your.email@domain.com]  
-LinkedIn: [your-linkedin]  
