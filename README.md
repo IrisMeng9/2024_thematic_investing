@@ -38,10 +38,9 @@ This repo includes **only the components I personally implemented and maintained
 
 ## 🛠️ Technologies Used
 
-- Python, Hugging Face Transformers, BART
+- Python, BART
 - ElasticSearch for full-text indexing
 - OpenAI API + Autogen for multi-agent prompt workflows
-- Pandas, NumPy for preprocessing
 
 ---
 
